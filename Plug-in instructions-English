@@ -1,8 +1,7 @@
-解析Json
-代码只有一个JsonComponent
+# AnalyzeJson
+Only one codeJsonComponent
 
-使用方法
-新建蓝图后添加组件 Json 组件有4个函数
+After creating a new blueprint and adding a Json component, there are four functions
 
 {
   "姓名": "张三",
